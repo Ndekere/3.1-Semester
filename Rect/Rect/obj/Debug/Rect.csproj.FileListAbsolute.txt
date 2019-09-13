@@ -1,0 +1,7 @@
+C:\Users\17g01acs036\source\repos\Rect\Rect\bin\Debug\Rect.exe.config
+C:\Users\17g01acs036\source\repos\Rect\Rect\bin\Debug\Rect.exe
+C:\Users\17g01acs036\source\repos\Rect\Rect\bin\Debug\Rect.pdb
+C:\Users\17g01acs036\source\repos\Rect\Rect\obj\Debug\Rect.csprojAssemblyReference.cache
+C:\Users\17g01acs036\source\repos\Rect\Rect\obj\Debug\Rect.csproj.CoreCompileInputs.cache
+C:\Users\17g01acs036\source\repos\Rect\Rect\obj\Debug\Rect.exe
+C:\Users\17g01acs036\source\repos\Rect\Rect\obj\Debug\Rect.pdb
