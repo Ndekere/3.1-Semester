@@ -6,4 +6,4 @@ Folders will contain the code we used in Class! Have fun,,,
 
 Sincerely, Ndekere Kiritu.
 
-Reddit: https://reddit.com/ndekere254
+Reddit: https://reddit.com/user/ndekere254
