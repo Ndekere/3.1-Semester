@@ -1,0 +1,10 @@
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\bin\Debug\MathApp.exe.config
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\bin\Debug\MathApp.exe
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\bin\Debug\MathApp.pdb
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\bin\Debug\MathLibrary.dll
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\bin\Debug\MathLibrary.pdb
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\obj\Debug\MathApp.csprojAssemblyReference.cache
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\obj\Debug\MathApp.csproj.CopyComplete
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\obj\Debug\MathApp.exe
+C:\Users\17g01acs036\source\repos\MathApp\MathApp\obj\Debug\MathApp.pdb
